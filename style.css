@@ -38,6 +38,7 @@ button {
     border: 3px solid purple;
     padding: 5px;
     margin: 5px;
+    margin-top: 2rem;
     background-color: #000;
     color: aliceblue;
 }
